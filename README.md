@@ -1,4 +1,4 @@
 # Tutorial
 test
 
-looks like I'd doing smth
+looks like I'm doing smth
